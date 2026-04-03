@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://omshanbhag.github.io/foliosite//sitemap.xml
+Sitemap: https://omshanbhag.github.io/sitemap.xml
